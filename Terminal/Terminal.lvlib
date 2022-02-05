@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Data Types" Type="Folder">
+		<Item Name="Buffer.ctl" Type="VI" URL="../Buffer.ctl"/>
 		<Item Name="Color Scheme.ctl" Type="VI" URL="../Color Scheme.ctl"/>
 		<Item Name="Color.ctl" Type="VI" URL="../Color.ctl"/>
 		<Item Name="Key Event Data.ctl" Type="VI" URL="../Key Event Data.ctl"/>
