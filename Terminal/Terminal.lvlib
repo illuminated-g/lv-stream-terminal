@@ -9,6 +9,7 @@
 		<Item Name="Color Scheme.ctl" Type="VI" URL="../Color Scheme.ctl"/>
 		<Item Name="Color.ctl" Type="VI" URL="../Color.ctl"/>
 		<Item Name="Key Event Data.ctl" Type="VI" URL="../Key Event Data.ctl"/>
+		<Item Name="Size Event Data.ctl" Type="VI" URL="../Size Event Data.ctl"/>
 		<Item Name="Size.ctl" Type="VI" URL="../Size.ctl"/>
 		<Item Name="Terminal Options.ctl" Type="VI" URL="../Terminal Options.ctl"/>
 		<Item Name="Text Attributes.ctl" Type="VI" URL="../Text Attributes.ctl"/>
