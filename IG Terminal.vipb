@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-05 13:58:48" Modified_Date="2022-04-10 20:54:11" Creator="Localization Tester" Comments="" ID="e730f5d013328e274f8bf2eb63c9ea10">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-05 13:58:48" Modified_Date="2022-04-10 21:07:48" Creator="Localization Tester" Comments="" ID="5f90e2e9bad5014adff10b0d4df3b0db">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Terminal</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Terminal</Library_Source_Folder>
     <Library_Output_Folder>..\build\vip</Library_Output_Folder>
