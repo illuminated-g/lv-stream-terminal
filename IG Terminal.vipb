@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-05 13:58:48" Modified_Date="2022-10-25 14:23:01" Creator="Localization Tester" Comments="" ID="da21a54ff8815d7f5959a96ad07d2106">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-05 13:58:48" Modified_Date="2023-01-07 11:33:12" Creator="Localization Tester" Comments="" ID="6406cb4ca3306f97f94c0d92085cc91a">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Terminal</Package_File_Name>
-    <Library_Version>1.0.0.13</Library_Version>
+    <Library_Version>1.0.0.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Terminal</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -18,9 +18,9 @@
   <Advanced_Settings>
     <Package_Dependencies>
       <External_Dependencies>illuminatedg_lib_ig_oopanel &gt;= 0.2.0.23</External_Dependencies>
-      <External_Dependencies>illuminatedg_lib_ig_stream_base &gt;= 1.2.0.42</External_Dependencies>
+      <External_Dependencies>illuminatedg_lib_ig_stream_base &gt;= 1.2.0.46</External_Dependencies>
       <Direct_Dependencies>illuminatedg_lib_ig_oopanel-0.2.0.23</Direct_Dependencies>
-      <Direct_Dependencies>illuminatedg_lib_ig_stream_base-1.2.0.42</Direct_Dependencies>
+      <Direct_Dependencies>illuminatedg_lib_ig_stream_base-1.2.0.46</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -349,7 +349,7 @@ Currently missing features are text selection and the alternate mode buffer. The
         <Path>Terminal\Input Handling</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9328874436BB10BDB95A27DB4CD4E15A</GUID>
+      <GUID>8F7BD6835E4763AC1BBFE9536EF287D0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -566,7 +566,7 @@ Currently missing features are text selection and the alternate mode buffer. The
         <Path>Terminal\Terminal\Set Scroll.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9466584F55D6606E1F922FED1B2D771B</GUID>
+      <GUID>5C8582BEE72A764C97F4E555029A7CFA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -629,7 +629,7 @@ Currently missing features are text selection and the alternate mode buffer. The
         <Path>Terminal\Terminal\Scroll Delta.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C8F4A964678A1C58964D99AABD36142</GUID>
+      <GUID>AAD00C9688E09F55CBA6D549EE6E88D6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
